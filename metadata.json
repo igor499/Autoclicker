@@ -2,5 +2,8 @@
   "name": "AutoClicker",
   "description": "AutoClicker app using AccessibilityService to automatically tap selected screen points with customizable click and pause cycles.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+"buildTest": "2026-08-11"
+
+  
 }
