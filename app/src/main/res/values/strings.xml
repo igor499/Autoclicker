@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoClicker</string>
+    <string name="accessibility_service_description">AutoClicker uses accessibility service permissions to dispatch touch tap gestures at your configured target point during auto-clicking cycles.</string>
+</resources>
