@@ -32,7 +32,7 @@ android {
       keyPassword = System.getenv("KEY_PASSWORD")
     }
     
-    }
+   }
   }
 
   buildTypes {
